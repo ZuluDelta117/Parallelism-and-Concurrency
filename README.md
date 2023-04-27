@@ -1,3 +1,3 @@
 # Parallelism-and-Concurrency
 
-Threading practice from CSE 251
+Threading and multiprocessing practice from CSE 251
